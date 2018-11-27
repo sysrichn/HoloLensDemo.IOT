@@ -8,8 +8,8 @@
             "type": "IoTHub",
             "componentInfo": {
                 "values": {
-                    "iotHubConnectionString": "HostName=HoloLensDemoHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=0tyWuQb3vTMqYtD6mmSYcSOUTUc1A+5xyzOoliG2bY4=",
-                    "eventHubConnectionString": "Endpoint=sb://iothub-ns-hololensde-910628-e603c825fb.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=0tyWuQb3vTMqYtD6mmSYcSOUTUc1A+5xyzOoliG2bY4=",
+                    "iotHubConnectionString": "HostName=.....",
+                    "eventHubConnectionString": "Endpoint=sb:....",
                     "eventHubConnectionPath": "hololensdemohub"
                 }
             }
